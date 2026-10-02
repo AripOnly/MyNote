@@ -1,9 +1,6 @@
 ## Mencari
 
 * `includes()` — mengecek apakah string mengandung teks tertentu
-
-### contoh
-  
 * `startsWith()` — mengecek apakah string diawali teks tertentu
 * `endsWith()` — mengecek apakah string diakhiri teks tertentu
 * `indexOf()` — mencari posisi pertama teks tertentu
